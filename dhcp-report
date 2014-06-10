@@ -1,0 +1,67 @@
+WG and personal
+draft-an-savi-mib-06                              Active	
+draft-bcx-behave-address-fmt-extension-05         Active	
+draft-bernardos-dmm-pmip-03                       Active	
+draft-bi-savi-wlan-05                             Active	
+draft-chakrabarti-nordmark-6man-efficient-nd-05   Active	
+draft-conet-aeon-gap-analysis-00                  Active	
+draft-cui-v6ops-lte-lw4over6-00                   Active	
+draft-dhcwg-dhc-rfc3315bis-01                     Active	
+draft-donley-dhc-cer-id-option-03                 Active	
+draft-hu-softwire-multicast-radius-ext-05         Active	
+draft-huitema-perpass-dhcp-identifiers-00         Active	
+draft-ietf-6man-resilient-rs-03                   Active	
+draft-ietf-alto-server-discovery-10               In IESG processing - ID Tracker state <RFC Ed Queue>	
+draft-ietf-dhc-access-network-identifier-02       Active	
+draft-ietf-dhc-addr-registration-04               Active	
+draft-ietf-dhc-conn-status-00                     Active	
+draft-ietf-dhc-dhcpv4-active-leasequery-01        Active	
+draft-ietf-dhc-dhcpv4-over-dhcpv6-08              In IESG processing - ID Tracker state <IESG Evaluation::Revised I-D Needed>	
+draft-ietf-dhc-dhcpv4-over-ipv6-09                Active	
+draft-ietf-dhc-dhcpv6-active-leasequery-01        In IESG processing - ID Tracker state <Publication Requested>	
+draft-ietf-dhc-dhcpv6-failover-design-04          In IESG processing - ID Tracker state <AD Evaluation::Revised I-D Needed>	
+draft-ietf-dhc-dhcpv6-load-balancing-01           Active	
+draft-ietf-dhc-dhcpv6-stateful-issues-05          Active	
+draft-ietf-dhc-dhcpv6-unknown-msg-08              In IESG processing - ID Tracker state <RFC Ed Queue>	
+draft-ietf-dhc-dynamic-shared-v4allocation-00     Active	
+draft-ietf-dhc-sedhcpv6-02                        Active	
+draft-ietf-dhc-topo-conf-01                       Active	
+draft-ietf-homenet-arch-14                        In IESG processing - ID Tracker state <IESG Evaluation - Defer::AD Followup>	
+draft-ietf-opsec-dhcpv6-shield-03                 Active	
+draft-ietf-opsec-ipv6-host-scanning-03            Active	
+draft-ietf-pcp-dhcp-13                            In IESG processing - ID Tracker state <RFC Ed Queue>	
+draft-ietf-roll-mpl-parameter-configuration-00    Active	
+draft-ietf-savi-dhcp-26                           In IESG processing - ID Tracker state <Waiting for AD Go-Ahead>	
+draft-ietf-softwire-4rd-08                        Active	
+draft-ietf-softwire-lw4over6-10                   Active	
+draft-ietf-softwire-map-dhcp-07                   Active	
+draft-ietf-softwire-map-radius-01                 Active	
+draft-ietf-softwire-multicast-prefix-option-06    Active	
+draft-ietf-v6ops-mobile-device-profile-07         Active	
+draft-jiang-dhc-stateless-reconfiguration-01      Active	
+draft-jiang-intarea-conet-gap-analysis-00         Active	
+draft-jiang-softwire-4rd-radius-04                Active	
+draft-kkb-mpvd-dhcp-support-01                    Active	
+draft-kkbg-mpvd-id-00                             Active	
+draft-liu-opsec-ds-lite-security-00               Active	
+draft-mariager-6lo-v6over-dect-ule-03             Active	
+draft-meyer-lisp-mn-10                            Active	
+draft-mglt-dnsop-search-list-processing-00        Active	
+draft-mglt-homenet-naming-architecture-dhc-options-01Active	
+draft-patil-tram-turn-serv-disc-01                Active	
+draft-pfister-homenet-prefix-assignment-01        Active	
+draft-rafiee-6man-ssas-08                         Active	
+draft-sarikaya-nvo3-dhc-vxlan-centraldir-mapping-00Active	
+draft-sarikaya-nvo3-dhc-vxlan-multicast-01        Active	
+draft-sarikaya-sfc-address-sharing-in-sfc-00      Active	
+draft-sun-softwire-lw4over6-radius-00             Active	
+draft-taht-kelley-hunt-dhcpv4-to-slaac-naming-00  Active	
+draft-templin-aerolink-25                         Active	
+draft-templin-ironbis-16                          Active	
+draft-winters-homenet-sper-interaction-01         Active	
+draft-xu-homenet-traffic-class-02                 Active	
+draft-xue-dhc-dynamic-gre-01                      Active	
+draft-xue-sfc-address-sharing-in-sfc-use-cases-00 Active	
+draft-yourtchenko-colitti-nd-reduce-multicast-00  Active	
+
+Generated on 2014-06-09 00:00:08 -0700 (PDT)
