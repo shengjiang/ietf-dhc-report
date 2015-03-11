@@ -1,60 +1,66 @@
 WG and personal
-draft-an-savi-mib-07                              Active	
-draft-bcx-behave-address-fmt-extension-06         Active	
-draft-bi-savi-wlan-06                             Active	
-draft-chakrabarti-nordmark-6man-efficient-nd-06   Active	
-draft-conet-aeon-gap-analysis-00                  Active	
-draft-dhcwg-dhc-rfc3315bis-02                     Active	
-draft-donley-dhc-cer-id-option-04                 Active	
-draft-gont-dhc-stable-privacy-addresses-01        Active	
-draft-hong-6lo-ipv6-over-nfc-02                   Active	
-draft-hu-softwire-multicast-radius-ext-05         Active	
-draft-ietf-6lo-dect-ule-00                        Active	
-draft-ietf-6man-resilient-rs-03                   Active	
-draft-ietf-6man-why64-05                          In IESG processing - ID Tracker state <In Last Call>	
-draft-ietf-alto-server-discovery-10               In IESG processing - ID Tracker state <RFC Ed Queue>	
-draft-ietf-dhc-access-network-identifier-03       Active	
+draft-an-savi-mib-08                              Active	
+draft-bcx-behave-address-fmt-extension-07         Active	
+draft-bi-savi-wlan-07                             Active	
+draft-clemm-netmod-mount-02                       Active	
+draft-conet-aeon-gap-analysis-01                  Active	
+draft-cui-dhc-dhcp4o6-active-leasequery-00        Active	
+draft-cui-dhc-dhcp4o6-bulk-active-leasequery-01   Active	
+draft-cui-dhc-dhcpv6-yang-00                      Active	
+draft-cui-intarea-464xlat-prefix-dhcp-00          Active	
+draft-dhcwg-dhc-rfc3315bis-04                     Active	
+draft-donley-dhc-cer-id-option-05                 Active	
+draft-hu-softwire-multicast-radius-ext-07         Active	
+draft-huitema-dhc-anonymity-profile-01            Active	
+draft-ietf-6lo-dect-ule-01                        Active	
+draft-ietf-6lo-nfc-00                             Active	
+draft-ietf-6man-ipv6-address-generation-privacy-04Active	
+draft-ietf-6man-resilient-rs-05                   In IESG processing - ID Tracker state <Waiting for Writeup>	
+draft-ietf-dhc-access-network-identifier-06       Active	
 draft-ietf-dhc-addr-registration-07               Active	
-draft-ietf-dhc-dhcpv4-active-leasequery-01        Active	
-draft-ietf-dhc-dhcpv4-over-ipv6-09                Active	
-draft-ietf-dhc-dhcpv6-active-leasequery-01        Active	
-draft-ietf-dhc-dhcpv6-failover-design-04          In IESG processing - ID Tracker state <AD Evaluation::Revised I-D Needed>	
-draft-ietf-dhc-dhcpv6-load-balancing-02           In IESG processing - ID Tracker state <Publication Requested>	
-draft-ietf-dhc-dhcpv6-stateful-issues-06          Active	
-draft-ietf-dhc-dynamic-shared-v4allocation-01     Active	
-draft-ietf-dhc-sedhcpv6-03                        Active	
-draft-ietf-homenet-arch-17                        In IESG processing - ID Tracker state <RFC Ed Queue>	
-draft-ietf-homenet-naming-architecture-dhc-options-00Active	
-draft-ietf-homenet-prefix-assignment-00           Active	
-draft-ietf-mif-mpvd-dhcp-support-00               Active	
-draft-ietf-mif-mpvd-id-00                         Active	
-draft-ietf-opsec-dhcpv6-shield-04                 Active	
-draft-ietf-opsec-ipv6-host-scanning-04            Active	
-draft-ietf-roll-mpl-parameter-configuration-02    Active	
-draft-ietf-savi-dhcp-29                           In IESG processing - ID Tracker state <IESG Evaluation>	
-draft-ietf-softwire-4rd-08                        In IESG processing - ID Tracker state <Publication Requested>	
-draft-ietf-softwire-lw4over6-10                   In IESG processing - ID Tracker state <Publication Requested>	
-draft-ietf-softwire-map-dhcp-08                   In IESG processing - ID Tracker state <Publication Requested>	
-draft-ietf-softwire-map-radius-02                 Active	
-draft-ietf-softwire-multicast-prefix-option-07    Active	
-draft-ietf-tram-turn-server-discovery-00          Active	
-draft-ietf-v6ops-mobile-device-profile-12         Active	
-draft-jeong-homenet-device-name-autoconf-01       Active	
-draft-jiang-intarea-conet-gap-analysis-00         Active	
-draft-liu-v6ops-running-multiple-prefixes-01      Active	
-draft-mariager-6lo-v6over-dect-ule-03             Active	
-draft-meyer-lisp-mn-11                            Active	
-draft-mglt-dnsop-search-list-processing-00        Active	
+draft-ietf-dhc-dhcp-privacy-00                    Active	
+draft-ietf-dhc-dhcpv4-active-leasequery-02        Active	
+draft-ietf-dhc-dhcpv6-active-leasequery-02        Active	
+draft-ietf-dhc-dhcpv6-privacy-00                  Active	
+draft-ietf-dhc-dhcpv6-stateful-issues-11          In IESG processing - ID Tracker state <IESG Evaluation>	
+draft-ietf-dhc-dynamic-shared-v4allocation-05     In IESG processing - ID Tracker state <Publication Requested>	
+draft-ietf-dhc-sedhcpv6-06                        In IESG processing - ID Tracker state <Publication Requested>	
+draft-ietf-dhc-stable-privacy-addresses-01        Active	
+draft-ietf-dhc-topo-conf-04                       Active	
+draft-ietf-homenet-naming-architecture-dhc-options-01Active	
+draft-ietf-mif-mpvd-dhcp-support-01               Active	
+draft-ietf-mif-mpvd-id-01                         Active	
+draft-ietf-opsec-dhcpv6-shield-06                 In IESG processing - ID Tracker state <IESG Evaluation::AD Followup>	
+draft-ietf-opsec-ipv6-host-scanning-06            Active	
+draft-ietf-roll-mpl-parameter-configuration-03    Active	
+draft-ietf-savi-dhcp-34                           In IESG processing - ID Tracker state <RFC Ed Queue>	
+draft-ietf-softwire-4rd-10                        In IESG processing - ID Tracker state <RFC Ed Queue>	
+draft-ietf-softwire-map-dhcp-12                   In IESG processing - ID Tracker state <RFC Ed Queue>	
+draft-ietf-softwire-map-radius-03                 Active	
+draft-ietf-softwire-multicast-prefix-option-08    Active	
+draft-ietf-sunset4-noipv4-01                      Active	
+draft-ietf-tram-turn-server-discovery-01          Active	
+draft-ietf-v6ops-mobile-device-profile-20         In IESG processing - ID Tracker state <IESG Evaluation::AD Followup>	
+draft-jiang-dhc-sedhcpv4-00                       Active	
+draft-liu-dhc-dhcp-yang-model-00                  Active	
+draft-liu-v6ops-running-multiple-prefixes-02      Active	
+draft-mccann-dmm-prefixcost-00                    Active	
+draft-meyer-lisp-mn-12                            Active	
+draft-mrugalski-dhc-dhcpv6-privacy-mitigation-00  Active	
+draft-perkins-dmm-4283mnids-01                    Active	
+draft-perkins-dmm-privacy-00                      Active	
+draft-rafiee-6man-ra-privacy-09                   Active	
 draft-rafiee-6man-ssas-11                         Active	
-draft-sarikaya-dhc-dhcpv6-raoptions-sadr-00       Active	
-draft-sarikaya-dmm-for-wifi-00                    Active	
-draft-sarikaya-nvo3-dhc-vxlan-multicast-01        Active	
-draft-sarikaya-sfc-address-sharing-in-sfc-00      Active	
-draft-templin-aeroent-00                          Active	
-draft-templin-aerolink-38                         Active	
-draft-templin-ironbis-16                          Active	
-draft-xu-homenet-traffic-class-02                 Active	
-draft-xue-dhc-dynamic-gre-02                      Active	
-draft-xue-sfc-address-sharing-in-sfc-use-cases-00 Active	
+draft-sarikaya-dhc-6man-dhcpv6-sadr-00            Active	
+draft-sarikaya-dmm-for-wifi-01                    Active	
+draft-sarikaya-nvo3-dhc-vxlan-multicast-02        Active	
+draft-sarikaya-nvo3-proxy-vxlan-00                Active	
+draft-templin-aerolink-52                         Active	
+draft-templin-client-cllao-01                     Active	
+draft-templin-dhc-cllao-updates-00                Active	
+draft-wkumari-dhc-capport-12                      In IESG processing - ID Tracker state <Publication Requested>	
+draft-xie-hiaps-hostid-in-sfc-00                  Active	
+draft-xue-dhc-dynamic-gre-03                      Active	
+draft-yiu-dhc-dhcpv6-sa-00                        Active	
 
-2014 September 18th
+2015 March 11th
